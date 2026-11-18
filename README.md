@@ -1,1 +1,5 @@
-
+![Daftar Todo](screenshots/to_do_list.png)
+![Detail Todo](screenshots/tampilan_isi_list.png)
+![Tambah Todo](screenshots/fitur_tambah_list.png)
+![Update Todo](screenshots/fitur_update_list.png)
+![Hapus Todo](screenshots/fitur_hapus.png)
